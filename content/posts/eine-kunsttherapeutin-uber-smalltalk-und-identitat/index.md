@@ -14,12 +14,9 @@ Im Gespräch erfahre ich, wie die Arbeit in der Psychiatrie ihre Identität ver�
 
 {{<box>}}\
 Christa Reusser ist siebenundvierzig Jahre alt und Mutter von drei Teenagerjungs. Sie mag alles, was mit Kunst und Schönheit zu tun hat – von Blumen über Nähen, Gestalten bis hin zu Tanzen.\
-Sie arbeitet fünfzig Prozent als Kunsttherapeutin in der Privatklinik Wyss auf der Krisenintervention. Nebenbei gibt sie Kreativkurse in ihrem eigenen Atelier.\
-{{<box>}}
+Sie arbeitet fünfzig Prozent als Kunsttherapeutin in der Privatklinik Wyss auf der Krisenintervention. Nebenbei gibt sie Kreativkurse in ihrem eigenen Atelier.
 
 ![Christa Reusser (47), Kunsttherapeutin, in ihrem Atelier](675a9533-b7ae-4794-8bb4-a9e75edd6909-2.jpeg)
-
-
 
 > „Ich mag keinen Smalltalk mehr, mich interessiert viel mehr die Tiefe im Leben.“
 
