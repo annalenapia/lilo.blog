@@ -8,11 +8,9 @@ image = "675a9533-b7ae-4794-8bb4-a9e75edd6909-2.jpeg"
 +++
 {{<lead>}}
 
-\
 Ich treffe Christa Reusser in ihrem Kunstatelier, einem Raum im Untergeschoss ihres Hauses, der Wärme, Ruhe, Kreativität und Offenheit ausstrahlt. Alles auch Eigenschaften, welche sie in ihrem Alltag als Kunsttherapeutin benötigt, um Menschen mit psychischen Erkrankungen in ihrem Prozess zu begleiten.\
 Im Gespräch erfahre ich, wie die Arbeit in der Psychiatrie ihre Identität verändert und prägt.
 
-\
 {{<lead>}}
 
 ###### **Annalena Herrmann:** **Hat es ein besonderes Erlebnis gegeben, welches dich persönlich sehr beschäftigte oder langfristig veränderte?**
@@ -31,11 +29,7 @@ Ich bin einer Frau begegnet, die ich gefragt habe, was sie braucht und was ich i
 
 Ich liebe meinen Beruf extrem. Ich arbeite wahnsinnig gerne, weil ich den Menschen mit der Kunst immer wieder etwas geben kann, bei dem sie nicht sprechen müssen, sondern nur machen dürfen. Und auch wenn es ihnen extrem schlecht geht, können sie eine kleine Veränderung sehen.
 
-
-
 ![Christa Reusser (47), Kunsttherapeutin, in ihrem Atelier](675a9533-b7ae-4794-8bb4-a9e75edd6909-2.jpeg)
-
-
 
 ###### **Wie beeinflusst die Kunst deiner Patient:innen deine eigene Kunst?**
 
@@ -55,16 +49,12 @@ Ich glaube, nicht sehr viel. Ich habe andere Orte, an denen ich meine Arbeit ver
 
 Ja, sehr viele. Zum Beispiel mag ich keinen Smalltalk mehr. Ich interessiere mich viel mehr für die Tiefe im Leben und auch das Schwere, und ich habe viel weniger Angst vor Menschen, die irgendwie schräg sind.
 
-
-
 {{<box>}}
 
 Christa Reusser ist siebenundvierzig Jahre alt und Mutter von drei Teenagerjungs. Sie mag alles, was mit Kunst und Schönheit zu tun hat – von Blumen über Nähen, Gestalten bis hin zu Tanzen.\
 Sie arbeitet fünfzig Prozent als Kunsttherapeutin in der Privatklinik Wyss auf der Krisenintervention. Nebenbei gibt sie Kreativkurse in ihrem eigenen Atelier.
 
 {{</box>}}
-
-
 
 ###### **Gibt es Momente, in denen du das Gefühl hast, von deinem beruflichen und privaten Ich hin und her zu wechseln – so wie zwischen zwei Welten vielleicht?**
 
