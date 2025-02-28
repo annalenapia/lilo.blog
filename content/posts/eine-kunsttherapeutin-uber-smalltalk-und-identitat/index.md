@@ -13,9 +13,7 @@ Ich treffe Christa Reusser in ihrem Kunstatelier, einem Raum im Untergeschoss ih
 Im Gespräch erfahre ich, wie die Arbeit in der Psychiatrie ihre Identität verändert und prägt.
 
 \
-{{</lead>}}
-
-
+{{<lead>}}
 
 ###### **Annalena Herrmann:** **Hat es ein besonderes Erlebnis gegeben, welches dich persönlich sehr beschäftigte oder langfristig veränderte?**
 
@@ -29,26 +27,15 @@ Ich bin einer Frau begegnet, die ich gefragt habe, was sie braucht und was ich i
 
 
 
+###### **Was gibt dir dein Beruf Positives, auch wenn es so schwierige Momente gibt?**
+
+Ich liebe meinen Beruf extrem. Ich arbeite wahnsinnig gerne, weil ich den Menschen mit der Kunst immer wieder etwas geben kann, bei dem sie nicht sprechen müssen, sondern nur machen dürfen. Und auch wenn es ihnen extrem schlecht geht, können sie eine kleine Veränderung sehen.
+
+
+
 ![Christa Reusser (47), Kunsttherapeutin, in ihrem Atelier](675a9533-b7ae-4794-8bb4-a9e75edd6909-2.jpeg)
 
 
-
-{{<box>}}
-
-Christa Reusser ist siebenundvierzig Jahre alt und Mutter von drei Teenagerjungs. Sie mag alles, was mit Kunst und Schönheit zu tun hat – von Blumen über Nähen, Gestalten bis hin zu Tanzen.\
-Sie arbeitet fünfzig Prozent als Kunsttherapeutin in der Privatklinik Wyss auf der Krisenintervention. Nebenbei gibt sie Kreativkurse in ihrem eigenen Atelier.
-
-{{</box>}}
-
-
-
-###### **Was gibt dir dein Beruf Positives, auch wenn es so schwierige Momente gibt?**
-
-Ich liebe meinen Beruf extrem. Ich arbeite wahnsinnig gerne, weil ich den Menschen mit der Kunst immer wieder etwas geben kann, bei dem sie nicht sprechen müssen, sondern nur machen dürfen. Und auch wenn es ihnen extrem schlecht geht, können sie eine kleine Veränderung sehen.
-
-###### **Was gibt dir dein Beruf Positives, auch wenn es so schwierige Momente gibt?**
-
-Ich liebe meinen Beruf extrem. Ich arbeite wahnsinnig gerne, weil ich den Menschen mit der Kunst immer wieder etwas geben kann, bei dem sie nicht sprechen müssen, sondern nur machen dürfen. Und auch wenn es ihnen extrem schlecht geht, können sie eine kleine Veränderung sehen.
 
 ###### **Wie beeinflusst die Kunst deiner Patient:innen deine eigene Kunst?**
 
@@ -62,9 +49,22 @@ Ich glaube, nicht sehr viel. Ich habe andere Orte, an denen ich meine Arbeit ver
 
 > Ich mag keinen Smalltalk mehr, mich interessiert viel mehr die Tiefe im Leben.
 
+
+
 ###### **Gibt es Dinge im Leben, auf die du anders blickst, seit du mit Menschen mit psychischen Krankheiten arbeitest?**
 
 Ja, sehr viele. Zum Beispiel mag ich keinen Smalltalk mehr. Ich interessiere mich viel mehr für die Tiefe im Leben und auch das Schwere, und ich habe viel weniger Angst vor Menschen, die irgendwie schräg sind.
+
+
+
+{{<box>}}
+
+Christa Reusser ist siebenundvierzig Jahre alt und Mutter von drei Teenagerjungs. Sie mag alles, was mit Kunst und Schönheit zu tun hat – von Blumen über Nähen, Gestalten bis hin zu Tanzen.\
+Sie arbeitet fünfzig Prozent als Kunsttherapeutin in der Privatklinik Wyss auf der Krisenintervention. Nebenbei gibt sie Kreativkurse in ihrem eigenen Atelier.
+
+{{</box>}}
+
+
 
 ###### **Gibt es Momente, in denen du das Gefühl hast, von deinem beruflichen und privaten Ich hin und her zu wechseln – so wie zwischen zwei Welten vielleicht?**
 
