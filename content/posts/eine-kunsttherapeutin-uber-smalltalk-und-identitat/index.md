@@ -10,16 +10,14 @@ Ich treffe Christa Reusser in ihrem Kunstatelier, einem Raum im Untergeschoss ih
 Im Gespräch erfahre ich, wie die Arbeit in der Psychiatrie ihre Identität verändert und prägt.\
 {{<lead>}}
 
-
-
 > „Es war nicht eine Person allein, die mich verändert hat, sondern immer wieder Personen, vor allem Menschen mit traumatischen Erfahrungen.“
->
->
 
 {{<box>}}\
 Christa Reusser ist siebenundvierzig Jahre alt und Mutter von drei Teenagerjungs. Sie mag alles, was mit Kunst und Schönheit zu tun hat – von Blumen über Nähen, Gestalten bis hin zu Tanzen.\
 Sie arbeitet fünfzig Prozent als Kunsttherapeutin in der Privatklinik Wyss auf der Krisenintervention. Nebenbei gibt sie Kreativkurse in ihrem eigenen Atelier.\
 {{<box>}}
+
+![Christa Reusser (47), Kunsttherapeutin, in ihrem Atelier](675a9533-b7ae-4794-8bb4-a9e75edd6909-2.jpeg)
 
 
 
