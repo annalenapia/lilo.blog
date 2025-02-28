@@ -6,34 +6,45 @@ pinned = false
 tags = []
 image = "675a9533-b7ae-4794-8bb4-a9e75edd6909-2.jpeg"
 +++
-{{<lead>}}\
-Ich treffe Christa Reusser in ihrem Kunstatelier, einem Raum im Untergeschoss ihres Hauses, der Wärme, Ruhe, Kreativität und Offenheit ausstrahlt. Alles auch Eigenschaften, welche sie in ihrem Alltag als Kunsttherapeutin benötigt, um Menschen mit psychischen Erkrankungen in ihrem Prozess zu begleiten.\
-Im Gespräch erfahre ich, wie die Arbeit in der Psychiatrie ihre Identität verändert und prägt.\
-{{</lead>}}
-
-
-
-> Es war nicht eine Person allein, die mich verändert hat, sondern immer wieder Personen, vor allem Menschen mit traumatischen Erfahrungen.
+{{<lead>}}
 
 \
-{{<box>}}
+Ich treffe Christa Reusser in ihrem Kunstatelier, einem Raum im Untergeschoss ihres Hauses, der Wärme, Ruhe, Kreativität und Offenheit ausstrahlt. Alles auch Eigenschaften, welche sie in ihrem Alltag als Kunsttherapeutin benötigt, um Menschen mit psychischen Erkrankungen in ihrem Prozess zu begleiten.\
+Im Gespräch erfahre ich, wie die Arbeit in der Psychiatrie ihre Identität verändert und prägt.
 
-Christa Reusser ist siebenundvierzig Jahre alt und Mutter von drei Teenagerjungs. Sie mag alles, was mit Kunst und Schönheit zu tun hat – von Blumen über Nähen, Gestalten bis hin zu Tanzen.\
-Sie arbeitet fünfzig Prozent als Kunsttherapeutin in der Privatklinik Wyss auf der Krisenintervention. Nebenbei gibt sie Kreativkurse in ihrem eigenen Atelier.
-
+\
 {{</lead>}}
 
 
-
-![Christa Reusser (47), Kunsttherapeutin, in ihrem Atelier](675a9533-b7ae-4794-8bb4-a9e75edd6909-2.jpeg)
-
-> Ich mag keinen Smalltalk mehr, mich interessiert viel mehr die Tiefe im Leben.
 
 ###### **Annalena Herrmann:** **Hat es ein besonderes Erlebnis gegeben, welches dich persönlich sehr beschäftigte oder langfristig veränderte?**
 
 Christa Reusser: Es war nicht eine Person allein, die mich verändert hat, sondern immer wieder Personen, vor allem Menschen mit traumatischen Erfahrungen, welche mich veränderten in meiner Art zu denken.\
 Ich hatte einmal eine Begegnung mit einer Frau, die sehr einschneidend für mich war. Damals war ich etwa sechsundzwanzig und habe mein erstes Praktikum in der Kunsttherapie gemacht.\
 Ich bin einer Frau begegnet, die ich gefragt habe, was sie braucht und was ich ihr geben kann. Darauf antwortete sie: „Sie haben so keine Ahnung, ich mache seit vierzig Jahren einen Klinikaufenthalt nach dem anderen, was wissen Sie schon vom Leben?“ Dieses Erlebnis hat mich sehr demütig gemacht.
+
+
+
+> Es war nicht eine Person allein, die mich verändert hat, sondern immer wieder Personen, vor allem Menschen mit traumatischen Erfahrungen.
+
+
+
+![Christa Reusser (47), Kunsttherapeutin, in ihrem Atelier](675a9533-b7ae-4794-8bb4-a9e75edd6909-2.jpeg)
+
+
+
+{{<box>}}
+
+Christa Reusser ist siebenundvierzig Jahre alt und Mutter von drei Teenagerjungs. Sie mag alles, was mit Kunst und Schönheit zu tun hat – von Blumen über Nähen, Gestalten bis hin zu Tanzen.\
+Sie arbeitet fünfzig Prozent als Kunsttherapeutin in der Privatklinik Wyss auf der Krisenintervention. Nebenbei gibt sie Kreativkurse in ihrem eigenen Atelier.
+
+{{</box>}}
+
+
+
+###### **Was gibt dir dein Beruf Positives, auch wenn es so schwierige Momente gibt?**
+
+Ich liebe meinen Beruf extrem. Ich arbeite wahnsinnig gerne, weil ich den Menschen mit der Kunst immer wieder etwas geben kann, bei dem sie nicht sprechen müssen, sondern nur machen dürfen. Und auch wenn es ihnen extrem schlecht geht, können sie eine kleine Veränderung sehen.
 
 ###### **Was gibt dir dein Beruf Positives, auch wenn es so schwierige Momente gibt?**
 
@@ -46,6 +57,10 @@ Wenn ich viel in der Psychiatrie arbeite, kommt mein künstlerisches Arbeiten of
 ###### **Wie viel von der Kunst deiner Patient:innen verarbeitest du in deiner eigenen Kunst?**
 
 Ich glaube, nicht sehr viel. Ich habe andere Orte, an denen ich meine Arbeit verarbeite, aber eigentlich weniger in der Kunst.
+
+
+
+> Ich mag keinen Smalltalk mehr, mich interessiert viel mehr die Tiefe im Leben.
 
 ###### **Gibt es Dinge im Leben, auf die du anders blickst, seit du mit Menschen mit psychischen Krankheiten arbeitest?**
 
